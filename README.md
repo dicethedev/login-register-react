@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Packages that I installed for this project is here below
+npm install styled-components
+npm install framer-motion
+
+framer-motion is great library for React and it is very popular Animation library out there.
 ## Available Scripts
 
 In the project directory, you can run:
